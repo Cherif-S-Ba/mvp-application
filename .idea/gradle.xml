@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Tools/gradle-5.6.4" />
+        <option name="gradleJvm" value="11 (3)" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app-admin" />
+            <option value="$PROJECT_DIR$/app-microservice" />
+            <option value="$PROJECT_DIR$/app-web" />
+            <option value="$PROJECT_DIR$/mod-domain" />
+            <option value="$PROJECT_DIR$/mod-mobile" />
+            <option value="$PROJECT_DIR$/mod-sandbox" />
+            <option value="$PROJECT_DIR$/specification" />
+            <option value="$PROJECT_DIR$/web-sandbox" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

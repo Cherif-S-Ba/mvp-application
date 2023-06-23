@@ -1,0 +1,16 @@
+<acceptance-test-run title="Landing on admin site" name="Landing on admin site" description="" steps="3" successful="0" failures="0" skipped="0" ignored="2" pending="1" annotated-result="PENDING" result="PENDING" duration="370" timestamp="2023-06-23T11:41:57.829Z">
+  <user-story id="admin-landing-page" name="Admin landing page" path="admin/admin_landing.feature"/>
+  <tags>
+    <tag name="Admin" type="capability"/>
+    <tag name="Admin/Admin landing page" type="feature"/>
+  </tags>
+  <test-step result="PENDING" duration="1">
+    <description>Given I am a &apos;user&apos; of the application</description>
+  </test-step>
+  <test-step result="IGNORED" duration="1">
+    <description>When I am landing on the first page</description>
+  </test-step>
+  <test-step result="IGNORED" duration="0">
+    <description>Then I should see a welcome message &apos;Welcome to Admin Application&apos;</description>
+  </test-step>
+</acceptance-test-run>
